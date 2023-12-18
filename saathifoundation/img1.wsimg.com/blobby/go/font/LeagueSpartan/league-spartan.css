@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'League Spartan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('League Spartan'), url(https://img1.wsimg.com/blobby/go/font/LeagueSpartan/LeagueSpartan.woff2) format('woff2'), url(https://img1.wsimg.com/blobby/go/font/LeagueSpartan/LeagueSpartan.woff) format('woff');
+}
